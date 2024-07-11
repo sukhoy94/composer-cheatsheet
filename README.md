@@ -1,7 +1,7 @@
 # composer-cheatsheet
 Cheat-sheet for php Composer package manager 
 
-### add a new package
+### Add a new package
 ```
 composer require monolog/monolog
 ```
